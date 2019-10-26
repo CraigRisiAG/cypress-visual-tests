@@ -13,25 +13,26 @@ The steps below will take you all the way through Cypress.
 
 
 ### 2. Run tests locally
-If you want to experiment with running this project in Continuous Integration, you'll need to fork it first.
-
 If you’re not using Node or npm in your project or you want to try Cypress out quickly, you can always download Cypress directly from our CDN.
 [Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Direct-download)
 
+If you want to experiment with running this project locally, you'll need to fork it first.
+
 After forking this project in Github, follow these commands to run tests locally:
+
 ```bash
 ## Clone the repo locally
 git clone https://github.com/<your-username>/cypress-visual-tests.git
 
 ##  Launch cypress desktop app
 
-## Open local repo manually or drag-drop it in cypress app
+## Open local repo manually from cypress app or drag-drop it in cypress app
 Click "visual-test.spec.js"
 ```
 
 ### 3. Experiment with tests using npm
 
-If you want to experiment with running this project in Continuous Integration, you'll need to fork it first.
+If you want to experiment with running this project locally with npm, you'll need to fork it first.
 
 After forking this project in `Github`, follow these commands to run tests locally using npm:
 
