@@ -1,0 +1,21 @@
+{
+  "name": "cypress-visual-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.0",
+    "babel-plugin-add-module-exports": "^1.0.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "hubot-test-helper": "^1.9.0"
+  },
+  "dependencies": {
+    "cypress-image-snapshot": "^3.1.1"
+  }
+}
